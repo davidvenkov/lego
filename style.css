@@ -1,0 +1,24 @@
+h1 {
+	color: black;
+}
+
+div.collections {
+	padding: 10px;
+	background-color: red;
+}
+
+div.collection {
+	background-color: yellow;
+	padding: 25px;
+	margin-bottom: 50px;
+}
+
+table {
+	border-collapse: collapse;
+	background-color: white;
+}
+
+td{
+	padding: 10px;
+	border: 5px solid green;
+}
